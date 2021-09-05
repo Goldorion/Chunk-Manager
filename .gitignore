@@ -25,5 +25,4 @@ build
 *.bbproject
 
 # Ignore Gradle project-specific cache directory
-*.gradle
-*.lock
+.gradle
