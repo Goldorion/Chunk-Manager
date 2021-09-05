@@ -1,0 +1,1 @@
+${input$chunk}.setLoadedToWorld(${input$condition});

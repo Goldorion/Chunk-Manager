@@ -1,0 +1,1 @@
+(world.getWorldChunk(new BlockPos(${input$x}, ${input$y}, ${input$z})))
