@@ -1,5 +1,5 @@
 # Chunk Manager
-An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to create and read custom files.
+An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to get values from chunks and manage them.
 
 ## Features
 * A new Chunk variable (Local + Global session)
@@ -17,7 +17,7 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to creat
 * You need to use MCreator 2021.2.
 
 ## Downloads/Install Instructions
-Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/File-Manager-MCreator/releases).
+Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/CHunk-Manager/releases).
 The plugin's MCreator page is [here](https://mcreator.net/plugin/64638/file-creator).
 
 Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
