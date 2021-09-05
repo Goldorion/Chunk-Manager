@@ -1,0 +1,21 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "chunk",
+      "check": "Chunk"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Number",
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "chunkmanager",
+    "toolbox_init": [
+      "<value name=\"chunk\"><block type=\"variables_get_chunk\"></block></value>"
+    ],
+    "inputs": [
+      "chunk"
+    ]
+  }
+}
