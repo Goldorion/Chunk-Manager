@@ -6,6 +6,7 @@
     "version": "1.0",
     "description": "Play with chunks!",
     "author": "Goldorion",
+    "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Chunk-Manager/master/update.json",
     "pluginPageID": 64512
   }
 }
