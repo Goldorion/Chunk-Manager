@@ -25,8 +25,6 @@ Install like any other plugin: Launch MCreator -> Open preferences -> Manage plu
 ## Credits/License
 Dev - Goldorion
 
-Licensed under the GNU Lesser General Public License, version 2.1
+Licensed under the MIT License
 * Appropriate credit must be provided to the creators and maintainers of this software.
-* Forked versions of this software must be distributed under the same license as this with attribution, if distributed.
-* Changes must be stated if any modified works are to be distributed.
 * Under no circumstances can you state that modified works are endorsed by the original creators.
