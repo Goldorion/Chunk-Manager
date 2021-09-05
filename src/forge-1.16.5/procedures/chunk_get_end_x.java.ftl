@@ -1,1 +1,1 @@
-${input$chunk}.getPos().getXEnd()
+(${input$chunk}.getPos().getXEnd())

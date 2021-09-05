@@ -1,1 +1,1 @@
-${input$chunk}.getPos().getRegionCoordZ()
+(${input$chunk}.getPos().getRegionCoordZ())
