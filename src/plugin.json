@@ -1,0 +1,11 @@
+{
+  "id": "chunk-manager",
+  "minversion": 202100235315,
+  "info": {
+    "name": "Chunk Manager",
+    "version": "1.0-dev.1",
+    "description": "Play with chunks!",
+    "author": "Goldorion",
+    "pluginPageID": 64512
+  }
+}
