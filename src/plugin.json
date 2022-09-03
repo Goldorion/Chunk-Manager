@@ -3,7 +3,7 @@
   "minversion": 202100235315,
   "info": {
     "name": "Chunk Manager",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Play with chunks!",
     "author": "Goldorion",
     "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Chunk-Manager/master/update.json",
