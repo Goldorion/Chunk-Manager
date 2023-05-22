@@ -17,7 +17,7 @@
   "mcreator": {
     "toolbox_id": "chunkmanager",
     "toolbox_init": [
-      "<value name=\"chunk\"><block type=\"variables_get_chunk\"></block></value>",
+      "<value name=\"chunk\"><block type=\"chunk_get_at\"><value name=\"x\"><block type=\"coord_x\"></block></value><value name=\"y\"><block type=\"coord_y\"></block></value><value name=\"z\"><block type=\"coord_z\"></block></value></block></value>",
       "<value name=\"condition\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value>"
     ],
     "inputs": [
