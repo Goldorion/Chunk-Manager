@@ -1,5 +1,5 @@
 # 1.2
-* Added support for Forge 1.19.2
+* Added support for Forge 1.19.2 and Forge 1.19.4
 * Removed support for Forge 1.16.5
 * Procedure blocks now use the "Get chunk at x y z" as default chunk input value instead of a chunk variable getter
 * Force chunk to load is no longer usable (removed from Minecraft's code)
