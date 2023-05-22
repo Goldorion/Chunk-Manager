@@ -13,7 +13,7 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to get v
 * Is chunk modified
 
 ## Important Information
-* This plugin supports Forge 1.16.5, Forge 1.18.2 and Fabric 1.16.5
+* This plugin supports  Forge 1.18.2, Forge 1.19.2 and Fabric 1.19.2
 * You need to use MCreator 2021.1+
 
 ## Downloads/Install Instructions

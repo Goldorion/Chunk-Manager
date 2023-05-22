@@ -16,12 +16,14 @@ class Globals {
 System.setProperty("user.dir", projectDir.toString())
 
 task build(type: Zip) {
+    group ("mcreator")
     from 'src'
     archiveFileName = Globals.getArchiveName()
     destinationDirectory = file('build/')
 }
 
 task install {
+    group ("mcreator")
     dependsOn build
     doLast {
         System.out.println("Installing plugin...")
@@ -33,7 +35,8 @@ task install {
     }
 }
 
-task launch {
+task runMCreator {
+    group ("mcreator")
     dependsOn install
     doLast {
         System.out.println("Launching MCreator...")
