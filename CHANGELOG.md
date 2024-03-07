@@ -1,3 +1,7 @@
+# 1.3
+* Added support for 1.20.1
+* Removed support for Fabric 1.19.2
+
 # 1.2
 * Added support for Forge 1.19.2 and Forge 1.19.4
 * Removed support for Forge 1.16.5
