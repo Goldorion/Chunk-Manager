@@ -44,7 +44,7 @@ task runMCreator {
             try {
                 exec {
                     workingDir "C://Program Files/Pylo/MCreator/"
-                    commandLine 'cmd', '/c', 'mcreator.bat'
+                    commandLine 'cmd', '/c', 'mcreator.exe'
                 }
             } catch (IOException e) {
                 throw new RuntimeException("Could not launch MCreator! Please make sure you have installed it to C://Program Files/", e)

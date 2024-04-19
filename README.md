@@ -13,8 +13,8 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to get v
 * Is chunk modified
 
 ## Important Information
-* This plugin supports Forge 1.18.2, 1.19.2, 1.19.4 and 1.20.1 and Fabric 1.20.1
-* You need to use MCreator 2022.3+
+* This plugin supports Forge 1.19.4 and 1.20.1, NeoForge 1.20.4 and Fabric 1.20.1
+* You need to use MCreator 2024.1
 
 ## Downloads/Install Instructions
 Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/CHunk-Manager/releases).
