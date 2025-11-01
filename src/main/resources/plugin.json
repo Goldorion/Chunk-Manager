@@ -1,9 +1,11 @@
 {
   "id": "chunk-manager",
-  "supportedversions": [202400115713, 202400115821],
+  "supportedversions": [
+    2025003
+  ],
   "info": {
     "name": "Chunk Manager",
-    "version": "1.4",
+    "version": "${pluginVersion}",
     "description": "Play with chunks!",
     "author": "Goldorion",
     "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Chunk-Manager/master/update.json",
