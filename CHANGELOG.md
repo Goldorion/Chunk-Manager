@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.5.1
+- Updated to MCreator 2026.1 (2026.1.13616)
+
 ## 1.5
 * Updated to support MCreator 2025.3
 * Added support for NeoForge 1.21.1, 1.21.8 and Fabric 1.21.8

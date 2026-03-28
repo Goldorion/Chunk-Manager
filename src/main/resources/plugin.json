@@ -1,7 +1,7 @@
 {
   "id": "chunk-manager",
   "supportedversions": [
-    2025003
+    2026001
   ],
   "info": {
     "name": "Chunk Manager",

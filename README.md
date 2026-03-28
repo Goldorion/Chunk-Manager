@@ -14,7 +14,7 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to get v
 
 ## Important Information
 * This plugin supports NeoForge 1.21.1, 1.21.8 and Fabric 1.21.8
-* You need to use MCreator 2025.3
+* You need to use MCreator 2026.1
 
 ## Downloads/Install Instructions
 Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/CHunk-Manager/releases).
