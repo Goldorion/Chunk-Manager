@@ -1,11 +1,9 @@
 {
   "chunk-manager": {
-    "latest": "1.5",
+    "latest": "1.5.2",
     "changes": [
-      "Updated to support MCreator 2025.3",
-      "Added support for NeoForge 1.21.1, 1.21.8 and Fabric 1.21.8",
-      "Removed support for all previous versions",
-      "The Chunk Manager category is now located inside the World procedures category"
+      "Added support for MCreator 2026.2",
+      "Added support for Fabric and NeoForge 26.1.2"
   ]
 }
 }

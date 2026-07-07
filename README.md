@@ -13,14 +13,14 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to get v
 * Is chunk modified
 
 ## Important Information
-* This plugin supports NeoForge 1.21.1, 1.21.8 and Fabric 1.21.8
-* You need to use MCreator 2026.1
+* This plugin supports NeoForge 1.21.1, 1.21.8, 26.1.2 and Fabric 1.21.8 and 26.1.2
+* You need to use MCreator 2026.1 or 2026.2
 
 ## Downloads/Install Instructions
 Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/CHunk-Manager/releases).
 The plugin's MCreator page is [here](https://mcreator.net/plugin/64638/file-creator).
 
-Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
+Install like any other plugin: Launch MCreator → Open preferences → Manage plugins → Load Plugin → Find your downloaded zip file → **Restart MCreator**.
 
 ## Credits/License
 Dev - Goldorion
