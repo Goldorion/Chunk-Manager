@@ -1,7 +1,6 @@
 {
   "id": "chunk-manager",
   "supportedversions": [
-    2026001,
     2026002
   ],
   "info": {
