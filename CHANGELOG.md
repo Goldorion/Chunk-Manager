@@ -1,7 +1,8 @@
 # Changelog
 
 # 1.6
-- Removed support for Fabric and NF 1.21.8 
+- Removed support for Fabric and NF 1.21.8
+- [Bugfix] Force load chunk procedure block did not have a code template
 
 ## 1.5.2
 - Added support for MCreator 2026.2

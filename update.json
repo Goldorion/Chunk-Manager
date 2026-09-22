@@ -1,9 +1,9 @@
 {
   "chunk-manager": {
-    "latest": "1.5.2",
+    "latest": "1.6",
     "changes": [
-      "Added support for MCreator 2026.2",
-      "Added support for Fabric and NeoForge 26.1.2"
+      "Removed support for Fabric and NF 1.21.8",
+      "[Bugfix] Force load chunk procedure block did not have a code template"
   ]
 }
 }
